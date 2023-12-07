@@ -1,7 +1,7 @@
 # 💫About Me :
 🌴 Learning Software Engineering in FPTU
 
-🔮 Learn to be a DevOps Engineering
+🔮 Learn to be a Dev not a Coder.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100049276027890) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/phanducanh912/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-phan-duc-670017264/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ducanhhocfpt) 
